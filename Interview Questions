@@ -1,0 +1,388 @@
+Questions on C
+1. What is C language ?
+2. Explain different storage classes in C ?
+3. What is Pointer ?
+4. What is dangling Pointer ?
+5. What is Void Pointer and when it is used?
+6. Is it better to use malloc() or calloc()?
+7. Should a function contain a return statement if it does not return a value ?
+8. Is it possible to execute code even after the program exits the main() function ?
+9. What is meant by “bit masking” ?
+10. What are multibyte characters ?
+Questions on C++ & Java
+1. Can you mention some Application of C/C++ ?
+2. What is a class ?
+3. What is a object ?
+4. What is a modifier ?
+5. Define namespace.
+6. Can you list out the areas in which data structures are applied extensively?
+7. What is the advantage of OOP ?
+8. List advantages and disadvantages of dynamic memory allocation vs. static memory allocation.?
+9. What is Java?
+10.Can you have virtual functions in Java?
+11.What is thread?
+12.What is multi-threading?
+13. What is Externalizable?
+14. What is an abstract method?
+15. What do you understand by private, protected and public?
+16. How are this() and super() used with constructors?
+17. What are the steps in the JDBC connection?
+18. Difference between HashMap and HashTable?
+19. What are the different ways to handle exceptions?
+20. What is synchronization and why is it important?
+
+Questions on Data Structures
+1. What is data structure?
+2. If you are using C language to implement the heterogeneous linked list, what pointer type will you use?
+3. In an AVL tree, at what condition the balancing is to be done?
+4. What are the advantages and disadvantages of B-star trees over Binary trees.?
+5. In RDBMS, what is the efficient data structure used in the internal storage representation?
+6. What is a spanning Tree?
+7. Does the minimum spanning tree of a graph give the shortest distance between any 2 specified nodes?
+8. Explain different type of sorting techniques ?
+9. Write down the algorithm of fastest and the slowest sorting techniques in all conditions ?
+10. Explain Binary search ?
+
+UST Global HR Interview Questions
+1. Tell me about yourself ?
+2. What are your strengths ?
+3. What are your weaknesses ?
+4. Why you want to join UST Global ?
+5. What do you know about UST Global ?
+6. Where do you see yourself 3-5 years from now?
+7. Will you relocate ?
+8. Why should i hire you ?
+
+Q1. What is Void Pointer and when it is used?
+
+
+Q2. Is it better to use malloc() or calloc()?
+
+
+Q3. What are multibyte characters?
+
+
+Q4. What are garbage values?
+
+
+Q5. What are the steps in SDLC? What are the various s/w development models?
+
+
+Q6. Is it possible to execute code even after the program exits the main () function?
+
+
+Q7. What is meant by bit masking?
+
+
+Q8. Should a function contain a return statement if it does not return a value?
+
+
+Q9. What is Externalizable?
+
+
+Q10. Difference between HashMap and HashTable?
+
+
+Q11. What is synchronization and why is it important?
+
+
+Q12. What is an abstract method?
+
+
+Q13. What are the steps in the JDBC connection?
+
+
+Q14. How are this() and super() used with constructors?
+
+
+Q15. What do you understand by private, protected and public?
+
+
+Q16. What are the different ways to handle exceptions?
+
+
+Q17. What is a spanning Tree?
+
+
+Q18. In RDBMS, what is the efficient data structure used in the internal storage representation?
+
+
+Q19. Explain Binary search?
+
+
+Q20. Write down the algorithm of fastest and the slowest sorting techniques in all conditions?
+
+
+Q21. Does the minimum spanning tree of a graph give the shortest distance between any two specified nodes?
+
+
+Q22. Explain different types of sorting techniques?
+
+
+Q23. In an AVL tree, at what condition the balancing is to be done?
+
+
+Q24. What are the steps to increase performance of web application?
+
+
+Q25. What is modularity?
+Q1. What is Java?
+
+ANS:
+Java is an object-oriented programming language developed initially by James Gosling and colleagues at Sun Microsystems. The language, initially called Oak (named after the oak trees outside Goslings office), was intended to replace C++, although the feature set better resembles that of Objective C. 
+
+Java should not be confused with JavaScript, which shares only the name and a similar C-like syntax. Sun Microsystems currently maintains and updates Java regularly. 
+
+
+Q2. What is multi-threading?
+
+ANS:
+Multi-threading means various threads that run in a system. 
+
+
+Q3. What is the advantage of OOP?
+
+ANS:
+**Simplicity
+**modularity:
+**modifiability
+**extensibility
+**maintainability
+**re-usability
+ 
+
+Q4. What is C++?
+
+ANS:
+C++ maintains almost all aspects of the C language, while simplifying memory management and adding several features - including a new data type known as a class (you will learn more about these later) - to allow object-oriented programming. C++ maintains the features of C which allowed for low-level memory access but also gives the programmer new tools to simplify memory management. C++ is a powerful general-purpose programming language. It can be used to create small programs or large applications.
+
+
+Q5. What is a class?
+
+ANS:
+Class is a user-defined data type in C++. It can be created to solve a particular kind of problem. After creation the user need not know the specifics of the working of a class.
+
+
+Q6. What are the advantages and disadvantages of B-star trees over Binary trees?
+
+ANS:
+The major difference between B-tree and binary trees is that B-tree is a external data structure and binary tree is a main memory data structure. The computational complexity of binary tree is counted by the number of comparison operations at each node, while the computational complexity of B-tree is determined by the disk I/O, that is, the number of node that will be loaded from disk to main memory. The comparision of the different values in one node is not counted.
+
+
+Q7. What is C language?
+
+ANS:
+The C programming language is a standardized programming language developed in the early 1970s by Ken Thompson and Dennis Ritchie for use on the UNIX operating system. It has since spread to many other operating systems, and is one of the most widely used programming languages. C is prized for its efficiency, and is the most popular programming language for writing system software, though it is also used for writing applications.
+
+
+Q8. What is an object?
+
+ANS:
+Object is a software bundle of variables and related methods. Objects have state and behavior
+
+
+Q9. Can you mention some application of C/C++?
+
+ANS:
+Google-Some of the Google applications are also written in C++, including Google file system and Google Chromium.
+Symbian OS- is also developed using C++. This is one of the most widespread OSs for cellular phones. 
+Apple OS X -Few parts of apple OS X are written in C++ programming language. Also few application for iPod are written in C++.
+Microsoft-Most of the big applications like Windows 95, 98, Me, 200 and XP are also written in C++. Also Microsoft Office, Internet Explorer and Visual Studio are written in Visual C++.
+
+
+Q10. Define namespace.
+
+ANS:
+It is a feature in C++ to minimize name collisions in the global name space. This namespace keyword assigns a distinct name to a library that allows other libraries to use the same identifier names without creating any name collisions. Furthermore, the compiler uses the namespace signature for differentiating the definitions.
+
+
+Q11. What is data structure?
+
+ANS:
+A data structure is a way of organizing data that considers not only the items stored, but also their relationship to each other. Advance knowledge about the relationship between data items allows designing of efficient algorithms for the manipulation of data
+
+
+Q12. What is a modifier?
+
+ANS:
+A modifier, also called a modifying function is a member function that changes the value of at least one data member. In other words, an operation that modifies the state of an object. Modifiers are also known as mutators.
+
+
+Q13. What are the different storage classes in C?
+
+ANS:
+There are four types of storage classes in C. They are extern, register, auto and static.
+
+
+Q14. Can you list out the areas in which data structures are applied extensively?
+
+ANS:
+Compiler Design,
+Operating System,
+Database Management System,
+Statistical analysis package,
+Numerical Analysis,
+Graphics,
+Artificial Intelligence,
+Simulation.
+
+
+Q15. List advantages and disadvantages of dynamic memory allocation vs. static memory allocation?
+
+ANS:
+Advantages:
+
+Memory is allocated on an as-needed basis. This helps remove the inefficiencies inherent to static memory allocation (when the amount of memory needed is not known at compile time and one has to make a guess).
+
+Disadvantages:
+
+Dynamic memory allocation is slower than static memory allocation. This is because dynamic memory allocation happens in the heap area.
+Dynamic memory needs to be carefully deleted after use. They are created in non-contiguous area of memory segment.
+Dynamic memory allocation causes contention between threads, so it degrades performance when it happens in a thread.
+Memory fragmentation.
+
+
+Q16. Can you have virtual functions in Java?
+
+ANS:
+Yes, all functions in Java are virtual by default. This is actually a pseudo trick question because the word virtual is not part of the naming convention in Java (as it is in C++, C-sharp and VB.NET), so this would be a foreign concept for someone who has only coded in Java. Virtual functions or virtual methods are functions or methods that will be redefined in derived classes. 
+
+
+Q17. What is a dangling pointer?
+
+ANS:
+Pointers that do not point to a valid object of the appropriate type. Dangling pointers arise when an object is deleted or deallocated, without modifying the value of the pointer, so that the pointer still points to the memory location of the deallocated memory. As the system may reallocate the previously freed memory to another process, if the original program then dereferences the (now) dangling pointer, unpredictable behavior may result, as the memory may now contain completely different data. This is especially the case if the program writes data to memory pointed by a dangling pointer, as silent corruption of unrelated data may result, leading to subtle bugs that can be extremely difficult to find, or cause segmentation faults (*NIX) or general protection faults (Windows). 
+
+
+Q18. What is a transient variable in Java?
+
+ANS:
+A transient variable is a variable that may not be serialized. If you do not want some field to be serialized, you can mark that field transient or static.
+
+
+Q19. What will be printed as the result of the operation below:
+
+#define swap(a,b) a=a+b;b=a-b;a=a-b;void main()
+{
+int x=5, y=10;
+swap (x,y);
+printf(%d %dn,x,y);
+swap2(x,y);
+printf(%d %dn, x, y);
+}
+
+int swap2(int a, int b)
+{
+int temp;
+temp=a;
+b=a;
+a=temp;
+return 0;
+}
+
+ANS: 10, 5
+10, 5
+
+
+Q20. What will be printed as the result of the operation below:
+
+main()
+{
+int x=5;
+printf(%d,%d,%dn,x,x< >2);}
+
+ANS: 5,20,1
+
+
+Q21. What will be printed as the result of the operation below:
+
+main()
+{
+int x=20,y=35;
+x=y++ + x++;
+y= ++y + ++x;
+printf(%d%dn,x,y);
+}
+1)What is Number System in Digital Electronics?
+
+2)What is Logic Gates in Digital Electronics?
+
+3)What is Flip-Flops?
+
+4)What is Latch?
+
+5)What is register in Digital Circuit?
+
+6)Explain about Half Adder and Full Adder Circuits?
+
+7)What is Sequential Circuit?
+
+8)What is Multiplexer?
+
+9)What is DeMultiplexer?
+
+10)What is Shift Register?
+
+11)Difference between RTL and TTL?
+
+12)Difference between DAC and ADC?
+
+13)What is Sampling?
+
+14)What do you mean by Quantization?
+
+15)What is the Nyquist theorem?
+
+16)What is Flag Register?
+
+17)What is Diode?
+
+18)Polarity of Diode using AND gate?
+
+19)Difference between Decoder and Encoder?
+
+20)What is K Map?
+
+21)What are Counters?
+
+22)Difference between Synchronous and Asynchronous?
+
+23)What is DMA in Digital Electronics?
+
+24)Explain about 1's and 2's Complement?
+
+
+
+C
+
+1)What is Native Compiler?
+
+2)Explain about storage classes?
+
+3)Difference between malloc(),calloc(),realloc() and free?
+
+4)What is a Null Pointer?
+
+5)What is Dangling Pointer?
+
+6)Explain about Control Statements?
+
+7)What is Array?
+
+8)Explain Array of Pointers?
+
+9)Difference between structure and union?
+
+10)What is Multiple File Compilation?
+
+8051
+
+1) What are the features of 8051?
+
+2)Difference between MicroController and MicroProcessor?
+
+3)What is Interrupt?
+
+4)What is Polling?
+
+5)What is Baud Rate and Use of It?
